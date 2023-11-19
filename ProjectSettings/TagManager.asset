@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coin
+  - props
+  - Trap
+  - trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Props
+  - UI 2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1588962387
+    locked: 0
+  - name: Wall2nd
+    uniqueID: 99383703
+    locked: 0
+  - name: Wall
+    uniqueID: 2271397607
+    locked: 0
+  - name: Props2
+    uniqueID: 4212960077
+    locked: 0
+  - name: Props
+    uniqueID: 1967456959
+    locked: 0
+  - name: Traps
+    uniqueID: 228686359
+    locked: 0
+  - name: PlayerBody
+    uniqueID: 1238423173
+    locked: 0
+  - name: PlayerHead
+    uniqueID: 148887111
+    locked: 0
+  - name: Coins
+    uniqueID: 867277757
+    locked: 0
+  - name: Statue
+    uniqueID: 1993691673
+    locked: 0

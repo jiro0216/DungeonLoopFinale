@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 553ac6efe7d7bea46a498f34c09c40da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3922517318304564711
+    second: olwest_personal_head_graal3425790-165_0
+  - first:
+      213: 2837346845404045386
+    second: olwest_personal_head_graal3425790-165_1
+  - first:
+      213: -6886978501654398058
+    second: olwest_personal_head_graal3425790-165_2
+  - first:
+      213: -8092032373620786169
+    second: olwest_personal_head_graal3425790-165_3
+  - first:
+      213: 8448435133648546864
+    second: olwest_personal_head_graal3425790-165_4
+  - first:
+      213: -3585800846153123240
+    second: olwest_personal_head_graal3425790-165_5
+  - first:
+      213: -4785770433213777599
+    second: olwest_personal_head_graal3425790-165_6
+  - first:
+      213: 3969621610042247456
+    second: olwest_personal_head_graal3425790-165_7
+  - first:
+      213: 3749731276222769944
+    second: olwest_personal_head_graal3425790-165_8
+  - first:
+      213: 5167284797812635199
+    second: olwest_personal_head_graal3425790-165_9
+  - first:
+      213: 7247712083655737597
+    second: olwest_personal_head_graal3425790-165_10
+  - first:
+      213: 2794692747093212697
+    second: olwest_personal_head_graal3425790-165_11
+  - first:
+      213: 3635356043346916395
+    second: olwest_personal_head_graal3425790-165_12
+  - first:
+      213: 5262046635512536303
+    second: olwest_personal_head_graal3425790-165_13
+  - first:
+      213: -4238661581594831040
+    second: olwest_personal_head_graal3425790-165_14
+  - first:
+      213: 8788398673960269940
+    second: olwest_personal_head_graal3425790-165_15
+  - first:
+      213: 7360515851493093126
+    second: olwest_personal_head_graal3425790-165_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e58cd6f7b49f6630800000000000000
+      internalID: 3922517318304564711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 500
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4022e84ce7406720800000000000000
+      internalID: 2837346845404045386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b3321aa898c60a0800000000000000
+      internalID: -6886978501654398058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 436
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c3f5bfd6353bf80800000000000000
+      internalID: -8092032373620786169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c2d090efede3570800000000000000
+      internalID: 8448435133648546864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 354
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a7fb9f02dac3ec0800000000000000
+      internalID: -3585800846153123240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 323
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149b9b7a527859db0800000000000000
+      internalID: -4785770433213777599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029484782dde61730800000000000000
+      internalID: 3969621610042247456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b2e629ab8b90430800000000000000
+      internalID: 3749731276222769944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 226
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36f5ea6522e5b740800000000000000
+      internalID: 5167284797812635199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 195
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df04b947dbb059460800000000000000
+      internalID: 7247712083655737597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ef9de1f3eb8c620800000000000000
+      internalID: 2794692747093212697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2433cb7f01637230800000000000000
+      internalID: 3635356043346916395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec9345198b860940800000000000000
+      internalID: 5262046635512536303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047d1f9bfbf3d25c0800000000000000
+      internalID: -4238661581594831040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4787ae1f70aa6f970800000000000000
+      internalID: 8788398673960269940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olwest_personal_head_graal3425790-165_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fa0e35b2ec52660800000000000000
+      internalID: 7360515851493093126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
