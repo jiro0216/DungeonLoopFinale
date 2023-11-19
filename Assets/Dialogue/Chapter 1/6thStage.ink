@@ -1,3 +1,3 @@
-Player:”It seems like I chose the correct door”
+Player: “I made it through safely again.”
 
-NPC: “The left door is damaged, The right door seems to have a strange dried liquid around it.
+NPC: “The left door has the smell of iron in it, The right door has the smell of fire.”

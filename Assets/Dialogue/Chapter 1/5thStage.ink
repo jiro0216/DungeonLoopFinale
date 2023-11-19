@@ -1,3 +1,3 @@
-Player:”Is there even any room with bright lights in it”
+Player:”It seems like I chose the correct door”
 
-NPC:”The left door has nothing, The right door has wind blowing through the gaps of the door.”
+NPC: “The left door is damaged, The right door seems to have a strange dried liquid around it.
