@@ -20,7 +20,7 @@ public class FirstEndingScript : MonoBehaviour
 
         if (playerObject != null)
         {
-            playerObject.transform.position = teleportDestination.position;
+            playerObject.transform.parent.position = teleportDestination.position;
         }
         else
         {
